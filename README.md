@@ -1,5 +1,8 @@
 name:sanjeevpriya k
-212224040289
+
+reg no: 212224040289
+
+SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
